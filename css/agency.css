@@ -1,31 +1,31 @@
-/* line 6, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 6, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* line 11, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 11, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .text-muted {
   color: #414d4b;
 }
 
-/* line 15, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 15, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .text-primary {
   color: #11b94a;
 }
 
-/* line 19, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 19, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 p {
   font-size: 14px;
   line-height: 1.75;
 }
 
-/* line 24, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 24, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 p.large {
   font-size: 16px;
 }
 
-/* line 28, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 28, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 a,
 a:hover,
 a:focus,
@@ -34,12 +34,12 @@ a.active {
   outline: none;
 }
 
-/* line 36, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 36, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 a {
   color: #11b94a;
 }
 
-/* line 40, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 40, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 a:hover,
 a:focus,
 a:active,
@@ -47,29 +47,29 @@ a.active {
   color: #0d8a37;
 }
 
-/* line 47, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 47, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
 
-/* line 52, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 52, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .img-centered {
   margin: 0 auto;
 }
 
-/* line 56, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 56, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .bg-light-gray {
   background-color: white;
 }
 
-/* line 60, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 60, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .bg-darkest-gray {
   background-color: #00cbd3;
 }
 
-/* line 66, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 66, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .btn-primary {
   color: white;
   background-color: #11b94a;
@@ -79,21 +79,21 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-/* line 10, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 10, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary:focus, .btn-primary.focus {
   color: white;
   background-color: #0d8a37;
   border-color: #06441b;
 }
 
-/* line 16, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 16, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary:hover {
   color: white;
   background-color: #0d8a37;
   border-color: #0c8134;
 }
 
-/* line 21, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 21, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary:active, .btn-primary.active,
 .open > .btn-primary.dropdown-toggle {
   color: white;
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   border-color: #0c8134;
 }
 
-/* line 28, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 28, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:active.focus, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus,
 .open > .btn-primary.dropdown-toggle:hover,
 .open > .btn-primary.dropdown-toggle:focus,
@@ -111,13 +111,13 @@ h1, h2, h3, h4, h5, h6 {
   border-color: #06441b;
 }
 
-/* line 36, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 36, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary:active, .btn-primary.active,
 .open > .btn-primary.dropdown-toggle {
   background-image: none;
 }
 
-/* line 44, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 44, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus,
 fieldset[disabled] .btn-primary:hover,
 fieldset[disabled] .btn-primary:focus,
@@ -126,13 +126,13 @@ fieldset[disabled] .btn-primary.focus {
   border-color: #11b94a;
 }
 
-/* line 52, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 52, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-primary .badge {
   color: #11b94a;
   background-color: white;
 }
 
-/* line 72, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 72, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .btn-xl {
   color: white;
   background-color: #11b94a;
@@ -145,21 +145,21 @@ fieldset[disabled] .btn-primary.focus {
   padding: 20px 40px;
 }
 
-/* line 10, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 10, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl:focus, .btn-xl.focus {
   color: white;
   background-color: #0d8a37;
   border-color: #06441b;
 }
 
-/* line 16, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 16, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl:hover {
   color: white;
   background-color: #0d8a37;
   border-color: #0c8134;
 }
 
-/* line 21, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 21, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl:active, .btn-xl.active,
 .open > .btn-xl.dropdown-toggle {
   color: white;
@@ -167,7 +167,7 @@ fieldset[disabled] .btn-primary.focus {
   border-color: #0c8134;
 }
 
-/* line 28, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 28, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl:active:hover, .btn-xl:active:focus, .btn-xl:active.focus, .btn-xl.active:hover, .btn-xl.active:focus, .btn-xl.active.focus,
 .open > .btn-xl.dropdown-toggle:hover,
 .open > .btn-xl.dropdown-toggle:focus,
@@ -177,13 +177,13 @@ fieldset[disabled] .btn-primary.focus {
   border-color: #06441b;
 }
 
-/* line 36, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 36, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl:active, .btn-xl.active,
 .open > .btn-xl.dropdown-toggle {
   background-image: none;
 }
 
-/* line 44, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 44, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl.disabled:hover, .btn-xl.disabled:focus, .btn-xl.disabled.focus, .btn-xl[disabled]:hover, .btn-xl[disabled]:focus, .btn-xl[disabled].focus,
 fieldset[disabled] .btn-xl:hover,
 fieldset[disabled] .btn-xl:focus,
@@ -192,35 +192,35 @@ fieldset[disabled] .btn-xl.focus {
   border-color: #11b94a;
 }
 
-/* line 52, /Users/roliesdonald/Documents/job/coconut-2/scss/_mixins.scss */
+/* line 52, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/_mixins.scss */
 .btn-xl .badge {
   color: #11b94a;
   background-color: white;
 }
 
-/* line 83, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 83, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom {
   background-color: #00cbd3;
   border-color: transparent;
 }
 
-/* line 86, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 86, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-brand {
   color: white;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 
-/* line 89, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 89, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand.active {
   color: #0d8a37;
 }
 
-/* line 96, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 96, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.98);
 }
 
-/* line 99, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 99, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-toggle {
   background-color: #11b94a;
   border-color: #11b94a;
@@ -230,12 +230,12 @@ fieldset[disabled] .btn-xl.focus {
   font-size: 12px;
 }
 
-/* line 105, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 105, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
   background-color: #11b94a;
 }
 
-/* line 112, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 112, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -244,20 +244,20 @@ fieldset[disabled] .btn-xl.focus {
   color: white;
 }
 
-/* line 117, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 117, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
   color: #11b94a;
   outline: none;
 }
 
-/* line 125, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 125, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
   background-color: #11b94a;
 }
 
-/* line 130, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 130, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
@@ -265,7 +265,7 @@ fieldset[disabled] .btn-xl.focus {
 }
 
 @media (min-width: 768px) {
-  /* line 138, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 138, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .navbar-custom {
     background-color: transparent;
     padding: 25px 0;
@@ -274,34 +274,34 @@ fieldset[disabled] .btn-xl.focus {
     transition: padding 0.3s;
     border: none;
   }
-  /* line 145, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 145, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .navbar-custom .navbar-brand {
     font-size: 2em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
   }
-  /* line 151, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 151, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .navbar-custom .navbar-nav > .active > a {
     border-radius: 3px;
   }
 }
 
 @media (min-width: 768px) {
-  /* line 160, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 160, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .navbar-custom.affix {
     background-color: #00cbd3;
     padding: 10px 0;
   }
-  /* line 163, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 163, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .navbar-custom.affix .navbar-brand {
     font-size: 1.5em;
   }
 }
 
-/* line 169, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 169, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 header {
-  background-image: url("../img/portfolio/24.jpg");
+  background-image: url("../img/portfolio/anyer.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -313,13 +313,13 @@ header {
   color: #abc2b7;
 }
 
-/* line 177, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 177, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
 }
 
-/* line 180, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 180, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
@@ -328,7 +328,7 @@ header .intro-text .intro-lead-in {
   margin-bottom: 25px;
 }
 
-/* line 187, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 187, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -340,12 +340,12 @@ header .intro-text .intro-heading {
 }
 
 @media (min-width: 768px) {
-  /* line 200, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 200, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   header .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
   }
-  /* line 203, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 203, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
@@ -353,7 +353,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
     margin-bottom: 25px;
   }
-  /* line 210, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 210, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
     text-transform: uppercase;
@@ -364,19 +364,19 @@ header .intro-text .intro-heading {
   }
 }
 
-/* line 223, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 223, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section {
   padding: 100px 0;
 }
 
-/* line 225, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 225, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
 
-/* line 230, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 230, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section h3.section-subheading {
   font-size: 20px;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -386,7 +386,7 @@ section h3.section-subheading {
   margin-bottom: 75px;
 }
 
-/* line 240, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 240, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .intro-heading2 {
   font-size: 70px;
   color: green;
@@ -395,25 +395,25 @@ section h3.section-subheading {
 }
 
 @media (min-width: 768px) {
-  /* line 249, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 249, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   section {
     padding: 50px 0;
   }
 }
 
-/* line 256, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 256, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .service-heading {
   margin: 15px 0;
   text-transform: none;
 }
 
-/* line 264, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 264, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
 }
 
-/* line 267, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 267, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
@@ -421,7 +421,7 @@ section h3.section-subheading {
   margin: 0 auto;
 }
 
-/* line 272, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 272, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   background: rgba(17, 185, 74, 0.1);
   position: absolute;
@@ -433,12 +433,12 @@ section h3.section-subheading {
   -moz-transition: all ease 0.5s;
 }
 
-/* line 281, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 281, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
   opacity: 1;
 }
 
-/* line 284, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 284, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   position: absolute;
   width: 100%;
@@ -450,18 +450,18 @@ section h3.section-subheading {
   color: white;
 }
 
-/* line 293, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 293, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
   margin-top: -12px;
 }
 
-/* line 296, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 296, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
   margin: 0;
 }
 
-/* line 303, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 303, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-caption {
   max-width: 400px;
   margin: 0 auto;
@@ -470,13 +470,13 @@ section h3.section-subheading {
   padding: 25px;
 }
 
-/* line 309, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 309, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-caption h4 {
   text-transform: none;
   margin: 0;
 }
 
-/* line 313, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 313, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio .portfolio-item .portfolio-caption p {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
@@ -484,26 +484,26 @@ section h3.section-subheading {
   margin: 0;
 }
 
-/* line 321, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 321, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 #portfolio * {
   z-index: 2;
 }
 
 @media (min-width: 767px) {
-  /* line 328, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 328, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
 }
 
-/* line 336, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 336, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline {
   list-style: none;
   padding: 0;
   position: relative;
 }
 
-/* line 340, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 340, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline:before {
   top: 0;
   bottom: 0;
@@ -515,25 +515,25 @@ section h3.section-subheading {
   margin-left: -1.5px;
 }
 
-/* line 350, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 350, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li {
   margin-bottom: 50px;
   position: relative;
   min-height: 50px;
 }
 
-/* line 354, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 354, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li:before, .timeline > li:after {
   content: " ";
   display: table;
 }
 
-/* line 359, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 359, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li:after {
   clear: both;
 }
 
-/* line 362, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 362, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li .timeline-panel {
   width: 100%;
   float: right;
@@ -542,7 +542,7 @@ section h3.section-subheading {
   text-align: left;
 }
 
-/* line 368, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 368, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li .timeline-panel:before {
   border-left-width: 0;
   border-right-width: 15px;
@@ -550,7 +550,7 @@ section h3.section-subheading {
   right: auto;
 }
 
-/* line 374, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 374, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li .timeline-panel:after {
   border-left-width: 0;
   border-right-width: 14px;
@@ -558,7 +558,7 @@ section h3.section-subheading {
   right: auto;
 }
 
-/* line 381, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 381, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li .timeline-image {
   left: 0;
   margin-left: 0;
@@ -573,21 +573,21 @@ section h3.section-subheading {
   text-align: center;
 }
 
-/* line 393, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 393, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li .timeline-image h4 {
   font-size: 10px;
   margin-top: 12px;
   line-height: 14px;
 }
 
-/* line 399, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 399, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
   text-align: left;
   padding: 0 20px 0 100px;
 }
 
-/* line 403, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 403, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li.timeline-inverted > .timeline-panel:before {
   border-left-width: 0;
   border-right-width: 15px;
@@ -595,7 +595,7 @@ section h3.section-subheading {
   right: auto;
 }
 
-/* line 409, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 409, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li.timeline-inverted > .timeline-panel:after {
   border-left-width: 0;
   border-right-width: 14px;
@@ -603,59 +603,59 @@ section h3.section-subheading {
   right: auto;
 }
 
-/* line 416, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 416, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline > li:last-child {
   margin-bottom: 0;
 }
 
-/* line 421, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 421, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline .timeline-heading h4 {
   margin-top: 0;
   color: inherit;
 }
 
-/* line 424, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 424, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
 }
 
-/* line 430, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 430, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .timeline .timeline-body > p,
 .timeline .timeline-body > ul {
   margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
-  /* line 439, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 439, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline:before {
     left: 50%;
   }
-  /* line 442, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 442, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li {
     margin-bottom: 100px;
     min-height: 100px;
   }
-  /* line 445, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 445, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-panel {
     width: 41%;
     float: left;
     padding: 0 20px 20px 30px;
     text-align: right;
   }
-  /* line 451, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 451, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-image {
     width: 100px;
     height: 100px;
     left: 50%;
     margin-left: -50px;
   }
-  /* line 456, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 456, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-image h4 {
     font-size: 13px;
     margin-top: 16px;
     line-height: 18px;
   }
-  /* line 462, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 462, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li.timeline-inverted > .timeline-panel {
     float: right;
     text-align: left;
@@ -664,87 +664,87 @@ section h3.section-subheading {
 }
 
 @media (min-width: 992px) {
-  /* line 473, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 473, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li {
     min-height: 150px;
   }
-  /* line 475, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 475, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-panel {
     padding: 0 20px 20px;
   }
-  /* line 478, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 478, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-image {
     width: 150px;
     height: 150px;
     margin-left: -75px;
   }
-  /* line 482, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 482, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-image h4 {
     font-size: 18px;
     margin-top: 30px;
     line-height: 26px;
   }
-  /* line 488, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 488, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 20px 20px;
   }
 }
 
 @media (min-width: 1200px) {
-  /* line 497, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 497, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li {
     min-height: 170px;
   }
-  /* line 499, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 499, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-panel {
     padding: 0 20px 20px 100px;
   }
-  /* line 502, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 502, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-image {
     width: 170px;
     height: 170px;
     margin-left: -85px;
   }
-  /* line 506, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 506, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li .timeline-image h4 {
     margin-top: 40px;
   }
-  /* line 510, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+  /* line 510, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
   }
 }
 
-/* line 519, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 519, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .team-member {
   text-align: center;
   margin-bottom: 50px;
 }
 
-/* line 522, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 522, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .team-member img {
   margin: 0 auto;
   border: 7px solid white;
 }
 
-/* line 526, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 526, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
   text-transform: none;
 }
 
-/* line 531, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 531, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .team-member p {
   margin-top: 0;
 }
 
-/* line 539, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 539, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 aside.clients img {
   margin: 50px auto;
 }
 
-/* line 546, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 546, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact {
   background-color: #00cbd3;
   background-image: url("../img/portfolio/9.png");
@@ -752,39 +752,39 @@ section#contact {
   background-repeat: no-repeat;
 }
 
-/* line 551, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 551, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .section-heading {
   color: white;
 }
 
-/* line 554, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 554, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .form-group {
   margin-bottom: 25px;
 }
 
-/* line 556, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 556, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .form-group input,
 section#contact .form-group textarea {
   padding: 20px;
 }
 
-/* line 560, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 560, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .form-group input.form-control {
   height: auto;
 }
 
-/* line 563, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 563, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .form-group textarea.form-control {
   height: 236px;
 }
 
-/* line 567, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 567, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .form-control:focus {
   border-color: #11b94a;
   box-shadow: none;
 }
 
-/* line 571, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 571, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact ::-webkit-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -792,7 +792,7 @@ section#contact ::-webkit-input-placeholder {
   color: white;
 }
 
-/* line 576, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 576, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact :-moz-placeholder {
   /* Firefox 18- */
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
@@ -801,7 +801,7 @@ section#contact :-moz-placeholder {
   color: white;
 }
 
-/* line 581, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 581, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact ::-moz-placeholder {
   /* Firefox 19+ */
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
@@ -810,7 +810,7 @@ section#contact ::-moz-placeholder {
   color: white;
 }
 
-/* line 586, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 586, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact :-ms-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -818,18 +818,18 @@ section#contact :-ms-input-placeholder {
   color: white;
 }
 
-/* line 591, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 591, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 section#contact .text-danger {
   color: #e74c3c;
 }
 
-/* line 598, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 598, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 footer {
   padding: 25px 0;
   text-align: center;
 }
 
-/* line 601, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 601, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 footer span.copyright {
   line-height: 40px;
   font-family: "Montserrat", "Helvetica Neue", "museo",   Helvetica, Arial, sans-serif;
@@ -837,7 +837,7 @@ footer span.copyright {
   text-transform: none;
 }
 
-/* line 606, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 606, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 footer ul.quicklinks {
   margin-bottom: 0;
   line-height: 40px;
@@ -846,12 +846,12 @@ footer ul.quicklinks {
   text-transform: none;
 }
 
-/* line 616, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 616, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 ul.social-buttons {
   margin-bottom: 0;
 }
 
-/* line 619, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 619, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 ul.social-buttons li a {
   display: block;
   background-color: #00cbd3;
@@ -867,12 +867,12 @@ ul.social-buttons li a {
   transition: all 0.3s;
 }
 
-/* line 632, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 632, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
   background-color: #11b94a;
 }
 
-/* line 641, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 641, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .btn:focus,
 .btn:active,
 .btn.active,
@@ -880,14 +880,14 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
   outline: none;
 }
 
-/* line 649, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 649, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-dialog {
   margin: 0;
   height: 100%;
   width: auto;
 }
 
-/* line 654, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 654, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-content {
   border-radius: 0;
   background-clip: border-box;
@@ -899,18 +899,18 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
   text-align: center;
 }
 
-/* line 663, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 663, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-content h2 {
   margin-bottom: 15px;
   font-size: 3em;
 }
 
-/* line 667, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 667, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
 }
 
-/* line 670, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 670, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -918,18 +918,18 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
   font-size: 16px;
 }
 
-/* line 676, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 676, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 30px;
   margin-top: 0;
 }
 
-/* line 680, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 680, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
 
-/* line 684, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 684, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .close-modal {
   position: absolute;
   width: 75px;
@@ -940,12 +940,12 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
   cursor: pointer;
 }
 
-/* line 692, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 692, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
 
-/* line 695, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 695, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .close-modal .lr {
   height: 75px;
   width: 1px;
@@ -959,7 +959,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
   z-index: 1051;
 }
 
-/* line 706, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 706, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
@@ -972,68 +972,68 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
   z-index: 1052;
 }
 
-/* line 719, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 719, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
 }
 
-/* line 727, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 727, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 ::-moz-selection {
   text-shadow: none;
   background: #11b94a;
 }
 
-/* line 732, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 732, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 ::selection {
   text-shadow: none;
   background: #11b94a;
 }
 
-/* line 737, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 737, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 img::selection {
   background: transparent;
 }
 
-/* line 741, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 741, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 img::-moz-selection {
   background: transparent;
 }
 
-/* line 745, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 745, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 body {
   webkit-tap-highlight-color: #11b94a;
 }
 
-/* line 755, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 755, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .panel-default > .panel-heading {
   color: white;
   background-color: #00cbd3;
   border-color: #00898e;
 }
 
-/* line 761, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 761, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .text-muted2 {
   color: white;
 }
 
-/* line 765, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 765, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .text-muted3 {
   color: #696969;
   font-size: 10px;
 }
 
-/* line 770, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 770, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .section-subheading2 {
   text-transform: lowercase;
 }
 
-/* line 775, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 775, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .form-control {
   opacity: .8;
 }
 
-/* line 779, /Users/roliesdonald/Documents/job/coconut-2/scss/agency.scss */
+/* line 779, /Users/roliesdonald/Documents/localgithub/cocoleisure/scss/agency.scss */
 .form-control:hover,
 .form-control:focus {
   opacity: 1;
