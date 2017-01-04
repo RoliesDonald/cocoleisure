@@ -1,3 +1,9 @@
+
+
+$('header.carousel').carousel();
+
+
+
 // Agency Theme JavaScript
 
 (function($) {
@@ -19,7 +25,7 @@
     });
 
     // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function(){ 
+    $('.navbar-collapse ul li a').click(function(){
             $('.navbar-toggle:visible').click();
     });
 
@@ -28,6 +34,7 @@
         offset: {
             top: 100
         }
-    })
+    });
 
+    // $('.carousel').carousel({});
 })(jQuery); // End of use strict
